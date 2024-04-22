@@ -3,14 +3,6 @@
     {
       "path": "/api/cron/calendar-cache-cleanup",
       "schedule": "0 5 * * *"
-    },
-    {
-      "path": "/api/tasks/cron",
-      "schedule": "* * * * *"
-    },
-    {
-      "path": "/api/tasks/cleanup",
-      "schedule": "0 0 * * *"
     }
   ],
   "functions": {
